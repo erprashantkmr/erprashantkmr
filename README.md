@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erprashantkmr
-- 👀 I’m interested in azure and sql
-- 🌱 I’m currently learning sql
+- 👀 I’m interested in Data Science and Business Analyst
+- 🌱 I’m currently learning sql, tableau 
 - 💞️ I’m looking to collaborate on azure deployment
 - 📫 You can reach me @erprashantkmr
 
